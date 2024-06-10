@@ -15,7 +15,7 @@ It is recommended to ensure the backend is active and operational before running
 1. **Clone the Project**
 Clone the repository to your local machine:
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/pblake313/Sveltekit-Firebase-Login-System---Frontend
 ```
 
 2. **Install Dependencies**
