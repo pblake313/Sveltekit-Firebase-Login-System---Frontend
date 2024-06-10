@@ -32,7 +32,7 @@ If you haven't set up Firebase yet, follow these steps:
 
 4. **Configure Your Environment Variables**
     * Create a `.env` file in the root of your project directory.
-    * Locate the `production.env.sample.txt` file. Copy its contents into your new `.env` file.
+    * Locate the `sample.env.txt` file. Copy its contents into your new `.env` file.
     * Replace the placeholders in your `.env` file with your actual Firebase keys and other environment-specific details.
 
 
