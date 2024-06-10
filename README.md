@@ -3,7 +3,7 @@
 
 This repository contains the frontend component of a login system, developed using the SvelteKit framework. It is designed to interface with a backend built using Node.js and Express, which is essential for the application's functionality.
 
-For optimal setup, it is recommended to configure the backend first, although the order of setup is flexible. You can find the backend repository here: [ENTER LINK HERE].
+For optimal setup, it is recommended to configure the backend first, although the order of setup is flexible. You can find the backend repository here: [Node-Express-Login-System---Backend](https://github.com/pblake313/Node-Express-Login-System---Backend).
 
 It is recommended to ensure the backend is active and operational before running this frontend application.
 
